@@ -24,14 +24,14 @@ Lucide React
 
 📁 Estrutura do projeto
 
-todo-list/
-├── backend/
-│   ├── src/
-│   │   ├── controllers/
+todo-list/ 
+├── backend/ 
+│   ├── src/ 
+│   │   ├── controllers/ 
 │   │   │   └── taskController.ts
-│   │   ├── database/
+│   │   ├── database/ 
 │   │   │   └── db.ts
-│   │   ├── routes/
+│   │   ├── routes/ 
 │   │   │   └── taskRoutes.ts
 │   │   └── server.ts
 │   ├── .env
