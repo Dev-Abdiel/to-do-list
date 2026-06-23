@@ -1,4 +1,4 @@
-Todo List — Full Stack
+To do list
 
 Aplicação web completa de gerenciamento de tarefas desenvolvida com Node.js, Express, TypeScript, PostgreSQL e React.
 
